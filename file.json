@@ -3,14 +3,17 @@ deviceid:"device1",
 name:"kumari",
 active:true
 },
+  {
 deviceid:"device2",
 name:"ganesh",
 active:true
 },
+  {
 deviceid:"device3",
 name:"bhairab",
 active:true
 },
+  {
   deviceid:"device4",
 name:"lakhey",
 active:true
