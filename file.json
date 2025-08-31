@@ -1,6 +1,148 @@
 [{
-deviceid:"device1",
-name:"kumari",
-active:true
+  day_number:1,
+  day:"Thursday",
+  date_nepali:"19th Bhadra 2082",
+  date_english:"2025_09_04,
+  events:"Upakhu",
+  13298045197:{
+    connected_to:"Lakhe",
+    device_id:"13298045197",
+    img:"",
+    active:true,
+    route_enabled:true
+  },
+  13298019869:{
+    connected_to:"Pulukishi",
+    device_id:"13298019869",
+    img:"",
+    active:true,
+    route_enabled:true
+  }
 },
+  {
+  day_number:2,
+  day:"Friday",
+  date_nepali:"20th Bhadra 2082",
+  date_english:"2025_09_05,
+  events:"",
+  13298045197:{
+    connected_to:"Lakhe",
+    device_id:"13298045197",
+    img:"",
+    active:true,
+    route_enabled:true
+  },
+  13298019869:{
+    connected_to:"Pulukishi",
+    device_id:"13298019869",
+    img:"",
+    active:true,
+    route_enabled:true
+  }
+},
+  {
+  day_number:3,
+  day:"Saturday",
+  date_nepali:"21th Bhadra 2082",
+  date_english:"2025_09_06,
+  events:"Indra Jatra",
+  13298045197:{
+    connected_to:"Lakhe",
+    device_id:"13298045197",
+    img:"",
+    active:true,
+    route_enabled:true
+  },
+  13298019869:{
+    connected_to:"Pulukishi",
+    device_id:"13298019869",
+    img:"",
+    active:true,
+    route_enabled:true
+  }
+},
+   {
+  day_number:4,
+  day:"Sunday",
+  date_nepali:"22th Bhadra 2082",
+  date_english:"2025_09_07,
+  events:"Sec Day Chariot festival",
+  13298045197:{
+    connected_to:"Lakhe",
+    device_id:"13298045197",
+    img:"",
+    active:true,
+    route_enabled:true
+  },
+  13298019869:{
+    connected_to:"Pulukishi",
+    device_id:"13298019869",
+    img:"",
+    active:true,
+    route_enabled:true
+  }
+},
+   {
+  day_number:5,
+  day:"Monday",
+  date_nepali:"23th Bhadra 2082",
+  date_english:"2025_09_08,
+  events:"",
+  13298045197:{
+    connected_to:"Lakhe",
+    device_id:"13298045197",
+    img:"",
+    active:true,
+    route_enabled:true
+  },
+  13298019869:{
+    connected_to:"Pulukishi",
+    device_id:"13298019869",
+    img:"",
+    active:true,
+    route_enabled:true
+  }
+},
+   {
+  day_number:6,
+  day:"Tuesday",
+  date_nepali:"24th Bhadra 2082",
+  date_english:"2025_09_09,
+  events:"",
+  13298045197:{
+    connected_to:"Lakhe",
+    device_id:"13298045197",
+    img:"",
+    active:true,
+    route_enabled:true
+  },
+  13298019869:{
+    connected_to:"Pulukishi",
+    device_id:"13298019869",
+    img:"",
+    active:true,
+    route_enabled:true
+  }
+},
+   {
+  day_number:7,
+  day:"Wednesday",
+  date_nepali:"25th Bhadra 2082",
+  date_english:"2025_09_10,
+  events:"Last day Indra Jatra",
+  13298045197:{
+    connected_to:"Lakhe",
+    device_id:"13298045197",
+    img:"",
+    active:true,
+    route_enabled:true
+  },
+  13298019869:{
+    connected_to:"Pulukishi",
+    device_id:"13298019869",
+    img:"",
+    active:true,
+    route_enabled:true
+  }
+}
 ]
