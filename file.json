@@ -16,8 +16,8 @@
       "connected_to": "Pulukishi",
       "device_id": "13298019869",
       "img": "",
-      "active": true,
-      "route_enabled": true
+      "active": false,
+      "route_enabled": false
     }
   },
   {
