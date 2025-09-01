@@ -135,8 +135,8 @@
       "connected_to": "Lakhe",
       "device_id": "13298045197",
       "img": "",
-      "active": true,
-      "route_enabled": true
+      "active": false,
+      "route_enabled": false
     },
     "Pulukishi": {
       "connected_to": "Pulukishi",
