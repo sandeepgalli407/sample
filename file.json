@@ -5,19 +5,26 @@
     "date_nepali": "19th Bhadra 2082",
     "date_english": "2025_09_04",
     "events": "Upakhu",
-    "Lakhe": {
-      "connected_to": "Pulukishi",
+    "Pulukisi": {
+      "connected_to": "Pulukisi",
       "device_id": "13298045197",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Pulukisi_Icon.svg",
       "active": true,
       "route_enabled": true
     },
-    "Pulukishi": {
-      "connected_to": "Pulukishi",
-      "device_id": "13298019869",
-      "img": "",
-      "active": false,
-      "route_enabled": false
+    "Majipa Lakhe": {
+      "connected_to": "Majipa Lakhe",
+      "device_id": "13298044699",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Lakhey_Icon.svg",
+      "active": true,
+      "route_enabled": true
+    },
+     "Sawa Bhaku": {
+      "connected_to": "Sawa Bhaku",
+      "device_id": "13298044840",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/SawaBakhu_Icon.svg",
+      "active": true,
+      "route_enabled": true
     }
   },
   {
@@ -26,17 +33,24 @@
     "date_nepali": "20th Bhadra 2082",
     "date_english": "2025_09_05",
     "events": "",
-    "Lakhe": {
-      "connected_to": "Lakhe",
+     "Pulukisi": {
+      "connected_to": "Pulukisi",
       "device_id": "13298045197",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Pulukisi_Icon.svg",
       "active": true,
       "route_enabled": true
     },
-    "Pulukishi": {
-      "connected_to": "Pulukishi",
-      "device_id": "13298019869",
-      "img": "",
+    "Majipa Lakhe": {
+      "connected_to": "Majipa Lakhe",
+      "device_id": "13298044699",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Lakhey_Icon.svg",
+      "active": true,
+      "route_enabled": true
+    },
+     "Sawa Bhaku": {
+      "connected_to": "Sawa Bhaku",
+      "device_id": "13298044840",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/SawaBakhu_Icon.svg",
       "active": true,
       "route_enabled": true
     }
@@ -47,17 +61,24 @@
     "date_nepali": "21th Bhadra 2082",
     "date_english": "2025_09_06",
     "events": "Indra Jatra",
-    "Lakhe": {
-      "connected_to": "Lakhe",
+     "Pulukisi": {
+      "connected_to": "Pulukisi",
       "device_id": "13298045197",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Pulukisi_Icon.svg",
       "active": true,
       "route_enabled": true
     },
-    "Pulukishi": {
-      "connected_to": "Pulukishi",
-      "device_id": "13298019869",
-      "img": "",
+    "Majipa Lakhe": {
+      "connected_to": "Majipa Lakhe",
+      "device_id": "13298044699",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Lakhey_Icon.svg",
+      "active": true,
+      "route_enabled": true
+    },
+     "Sawa Bhaku": {
+      "connected_to": "Sawa Bhaku",
+      "device_id": "13298044840",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/SawaBakhu_Icon.svg",
       "active": true,
       "route_enabled": true
     }
@@ -68,17 +89,24 @@
     "date_nepali": "22th Bhadra 2082",
     "date_english": "2025_09_07",
     "events": "Sec Day Chariot festival",
-    "Lakhe": {
-      "connected_to": "Lakhe",
+    "Pulukisi": {
+      "connected_to": "Pulukisi",
       "device_id": "13298045197",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Pulukisi_Icon.svg",
       "active": true,
       "route_enabled": true
     },
-    "Pulukishi": {
-      "connected_to": "Pulukishi",
-      "device_id": "13298019869",
-      "img": "",
+    "Majipa Lakhe": {
+      "connected_to": "Majipa Lakhe",
+      "device_id": "13298044699",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Lakhey_Icon.svg",
+      "active": true,
+      "route_enabled": true
+    },
+     "Sawa Bhaku": {
+      "connected_to": "Sawa Bhaku",
+      "device_id": "13298044840",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/SawaBakhu_Icon.svg",
       "active": true,
       "route_enabled": true
     }
@@ -89,17 +117,24 @@
     "date_nepali": "23th Bhadra 2082",
     "date_english": "2025_09_08",
     "events": "",
-    "Lakhe": {
-      "connected_to": "Lakhe",
+    "Pulukisi": {
+      "connected_to": "Pulukisi",
       "device_id": "13298045197",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Pulukisi_Icon.svg",
       "active": true,
       "route_enabled": true
     },
-    "Pulukishi": {
-      "connected_to": "Pulukishi",
-      "device_id": "13298019869",
-      "img": "",
+    "Majipa Lakhe": {
+      "connected_to": "Majipa Lakhe",
+      "device_id": "13298044699",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Lakhey_Icon.svg",
+      "active": true,
+      "route_enabled": true
+    },
+     "Sawa Bhaku": {
+      "connected_to": "Sawa Bhaku",
+      "device_id": "13298044840",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/SawaBakhu_Icon.svg",
       "active": true,
       "route_enabled": true
     }
@@ -110,17 +145,24 @@
     "date_nepali": "24th Bhadra 2082",
     "date_english": "2025_09_09",
     "events": "",
-    "Lakhe": {
-      "connected_to": "Lakhe",
+     "Pulukisi": {
+      "connected_to": "Pulukisi",
       "device_id": "13298045197",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Pulukisi_Icon.svg",
       "active": true,
       "route_enabled": true
     },
-    "Pulukishi": {
-      "connected_to": "Pulukishi",
-      "device_id": "13298019869",
-      "img": "",
+    "Majipa Lakhe": {
+      "connected_to": "Majipa Lakhe",
+      "device_id": "13298044699",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Lakhey_Icon.svg",
+      "active": true,
+      "route_enabled": true
+    },
+     "Sawa Bhaku": {
+      "connected_to": "Sawa Bhaku",
+      "device_id": "13298044840",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/SawaBakhu_Icon.svg",
       "active": true,
       "route_enabled": true
     }
@@ -130,18 +172,53 @@
     "day": "Wednesday",
     "date_nepali": "25th Bhadra 2082",
     "date_english": "2025_09_10",
-    "events": "Last day Indra Jatra",
-    "Lakhe": {
-      "connected_to": "Lakhe",
+    "events": "",
+     "Pulukisi": {
+      "connected_to": "Pulukisi",
       "device_id": "13298045197",
-      "img": "",
-      "active": false,
-      "route_enabled": false
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Pulukisi_Icon.svg",
+      "active": true,
+      "route_enabled": true
     },
-    "Pulukishi": {
-      "connected_to": "Pulukishi",
-      "device_id": "13298019869",
-      "img": "",
+    "Majipa Lakhe": {
+      "connected_to": "Majipa Lakhe",
+      "device_id": "13298044699",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Lakhey_Icon.svg",
+      "active": true,
+      "route_enabled": true
+    },
+     "Sawa Bhaku": {
+      "connected_to": "Sawa Bhaku",
+      "device_id": "13298044840",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/SawaBakhu_Icon.svg",
+      "active": true,
+      "route_enabled": true
+    }
+  },
+  {
+    "day_number": 8,
+    "day": "Thursday",
+    "date_nepali": "26th Bhadra 2082",
+    "date_english": "2025_09_11",
+    "events": "Last day Indra Jatra",
+     "Pulukisi": {
+      "connected_to": "Pulukisi",
+      "device_id": "13298045197",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Pulukisi_Icon.svg",
+      "active": true,
+      "route_enabled": true
+    },
+    "Majipa Lakhe": {
+      "connected_to": "Majipa Lakhe",
+      "device_id": "13298044699",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Lakhey_Icon.svg",
+      "active": true,
+      "route_enabled": true
+    },
+     "Sawa Bhaku": {
+      "connected_to": "Sawa Bhaku",
+      "device_id": "13298044840",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/SawaBakhu_Icon.svg",
       "active": true,
       "route_enabled": true
     }
