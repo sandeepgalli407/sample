@@ -25,6 +25,27 @@
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/SawaBakhu_Icon.svg",
       "active": true,
       "route_enabled": true
+    },
+     "Bhairab": {
+      "connected_to": "Bhairab",
+      "device_id": "13076875661",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Bhairab%20Chariot.svg",
+      "active": true,
+      "route_enabled": true
+    },
+     "Ganesh": {
+      "connected_to": "Ganesh",
+      "device_id": "13298045410",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Ganesh%20Chariot.svg",
+      "active": true,
+      "route_enabled": true
+    },
+     "Kumari": {
+      "connected_to": "Kumari",
+      "device_id": "13298019869",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Kumari%20chariot.svg",
+      "active": true,
+      "route_enabled": true
     }
   },
   {
@@ -51,6 +72,27 @@
       "connected_to": "Sawa Bhaku",
       "device_id": "13298044840",
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/SawaBakhu_Icon.svg",
+      "active": true,
+      "route_enabled": true
+    },
+     "Bhairab": {
+      "connected_to": "Bhairab",
+      "device_id": "13076875661",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Bhairab%20Chariot.svg",
+      "active": true,
+      "route_enabled": true
+    },
+     "Ganesh": {
+      "connected_to": "Ganesh",
+      "device_id": "13298045410",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Ganesh%20Chariot.svg",
+      "active": true,
+      "route_enabled": true
+    },
+     "Kumari": {
+      "connected_to": "Kumari",
+      "device_id": "13298019869",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Kumari%20chariot.svg",
       "active": true,
       "route_enabled": true
     }
@@ -81,6 +123,27 @@
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/SawaBakhu_Icon.svg",
       "active": true,
       "route_enabled": true
+    },
+     "Bhairab": {
+      "connected_to": "Bhairab",
+      "device_id": "13076875661",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Bhairab%20Chariot.svg",
+      "active": true,
+      "route_enabled": true
+    },
+     "Ganesh": {
+      "connected_to": "Ganesh",
+      "device_id": "13298045410",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Ganesh%20Chariot.svg",
+      "active": true,
+      "route_enabled": true
+    },
+     "Kumari": {
+      "connected_to": "Kumari",
+      "device_id": "13298019869",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Kumari%20chariot.svg",
+      "active": true,
+      "route_enabled": true
     }
   },
   {
@@ -107,6 +170,27 @@
       "connected_to": "Sawa Bhaku",
       "device_id": "13298044840",
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/SawaBakhu_Icon.svg",
+      "active": true,
+      "route_enabled": true
+    },
+     "Bhairab": {
+      "connected_to": "Bhairab",
+      "device_id": "13076875661",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Bhairab%20Chariot.svg",
+      "active": true,
+      "route_enabled": true
+    },
+     "Ganesh": {
+      "connected_to": "Ganesh",
+      "device_id": "13298045410",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Ganesh%20Chariot.svg",
+      "active": true,
+      "route_enabled": true
+    },
+     "Kumari": {
+      "connected_to": "Kumari",
+      "device_id": "13298019869",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Kumari%20chariot.svg",
       "active": true,
       "route_enabled": true
     }
@@ -137,6 +221,27 @@
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/SawaBakhu_Icon.svg",
       "active": true,
       "route_enabled": true
+    },
+     "Bhairab": {
+      "connected_to": "Bhairab",
+      "device_id": "13076875661",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Bhairab%20Chariot.svg",
+      "active": true,
+      "route_enabled": true
+    },
+     "Ganesh": {
+      "connected_to": "Ganesh",
+      "device_id": "13298045410",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Ganesh%20Chariot.svg",
+      "active": true,
+      "route_enabled": true
+    },
+     "Kumari": {
+      "connected_to": "Kumari",
+      "device_id": "13298019869",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Kumari%20chariot.svg",
+      "active": true,
+      "route_enabled": true
     }
   },
   {
@@ -163,6 +268,27 @@
       "connected_to": "Sawa Bhaku",
       "device_id": "13298044840",
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/SawaBakhu_Icon.svg",
+      "active": true,
+      "route_enabled": true
+    },
+     "Bhairab": {
+      "connected_to": "Bhairab",
+      "device_id": "13076875661",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Bhairab%20Chariot.svg",
+      "active": true,
+      "route_enabled": true
+    },
+     "Ganesh": {
+      "connected_to": "Ganesh",
+      "device_id": "13298045410",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Ganesh%20Chariot.svg",
+      "active": true,
+      "route_enabled": true
+    },
+     "Kumari": {
+      "connected_to": "Kumari",
+      "device_id": "13298019869",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Kumari%20chariot.svg",
       "active": true,
       "route_enabled": true
     }
@@ -193,6 +319,27 @@
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/SawaBakhu_Icon.svg",
       "active": true,
       "route_enabled": true
+    },
+     "Bhairab": {
+      "connected_to": "Bhairab",
+      "device_id": "13076875661",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Bhairab%20Chariot.svg",
+      "active": true,
+      "route_enabled": true
+    },
+     "Ganesh": {
+      "connected_to": "Ganesh",
+      "device_id": "13298045410",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Ganesh%20Chariot.svg",
+      "active": true,
+      "route_enabled": true
+    },
+     "Kumari": {
+      "connected_to": "Kumari",
+      "device_id": "13298019869",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Kumari%20chariot.svg",
+      "active": true,
+      "route_enabled": true
     }
   },
   {
@@ -219,6 +366,27 @@
       "connected_to": "Sawa Bhaku",
       "device_id": "13298044840",
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/SawaBakhu_Icon.svg",
+      "active": true,
+      "route_enabled": true
+    },
+     "Bhairab": {
+      "connected_to": "Bhairab",
+      "device_id": "13076875661",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Bhairab%20Chariot.svg",
+      "active": true,
+      "route_enabled": true
+    },
+     "Ganesh": {
+      "connected_to": "Ganesh",
+      "device_id": "13298045410",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Ganesh%20Chariot.svg",
+      "active": true,
+      "route_enabled": true
+    },
+     "Kumari": {
+      "connected_to": "Kumari",
+      "device_id": "13298019869",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Kumari%20chariot.svg",
       "active": true,
       "route_enabled": true
     }
