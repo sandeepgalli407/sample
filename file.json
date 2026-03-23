@@ -2,393 +2,107 @@
   {
     "day_number": 1,
     "day": "Thursday",
-    "date_nepali": "19th Bhadra 2082",
-    "date_english": "2025_09_04",
-    "events": "Upakhu",
-    "Pulukisi": {
-      "connected_to": "Pulukisi",
-      "device_id": "13298045197",
+    "date_nepali": "12 chaitra 2082",
+    "date_english": "2026_03_26",
+    "events": "Seto Machindranath Rath Yatra",
+    "gps1": {
+      "connected_to": "gps1",
+      "device_id": "13298044511",
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Pulukisi_Icon.svg",
       "active": true,
       "route_enabled": true
     },
-    "Majipa Lakhe": {
-      "connected_to": "Majipa Lakhe",
-      "device_id": "13298044511",
+    "gps2": {
+      "connected_to": "gps2",
+      "device_id": "13076742135",
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Lakhey_Icon.svg",
       "active": true,
       "route_enabled": true
-    },
-     "Sawa Bhaku": {
-      "connected_to": "Sawa Bhaku",
-      "device_id": "13298044840",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/SawaBakhu_Icon.svg",
-      "active": true,
-      "route_enabled": true
-    },
-     "Bhairab": {
-      "connected_to": "Bhairab",
-      "device_id": "13298019869",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Bhairab%20Chariot.svg",
-      "active": true,
-      "route_enabled": true
-    },
-     "Ganesh": {
-      "connected_to": "Ganesh",
-      "device_id": "13298045410",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Ganesh%20Chariot.svg",
-      "active": true,
-      "route_enabled": true
-    },
-     "Kumari": {
-      "connected_to": "Kumari",
-      "device_id": "13076742135",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Kumari%20chariot.svg",
-      "active": true,
-      "route_enabled": true
     }
-  },
-  {
+},
+{
     "day_number": 2,
     "day": "Friday",
-    "date_nepali": "20th Bhadra 2082",
-    "date_english": "2025_09_05",
-    "events": "",
-     "Pulukisi": {
-      "connected_to": "Pulukisi",
-      "device_id": "13298045197",
+    "date_nepali": "13 chaitra 2082",
+    "date_english": "2026_03_27",
+    "events": "Seto Machindranath Rath Yatra"
+    "gps1": {
+      "connected_to": "gps1",
+      "device_id": "13298044511",
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Pulukisi_Icon.svg",
       "active": true,
       "route_enabled": true
     },
-    "Majipa Lakhe": {
-      "connected_to": "Majipa Lakhe",
-      "device_id": "13298044511",
+    "gps2": {
+      "connected_to": "gps2",
+      "device_id": "13076742135",
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Lakhey_Icon.svg",
       "active": true,
       "route_enabled": true
-    },
-     "Sawa Bhaku": {
-      "connected_to": "Sawa Bhaku",
-      "device_id": "13298044840",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/SawaBakhu_Icon.svg",
-      "active": true,
-      "route_enabled": true
-    },
-     "Bhairab": {
-      "connected_to": "Bhairab",
-      "device_id": "13298019869",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Bhairab%20Chariot.svg",
-      "active": true,
-      "route_enabled": true
-    },
-     "Ganesh": {
-      "connected_to": "Ganesh",
-      "device_id": "13298045410",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Ganesh%20Chariot.svg",
-      "active": true,
-      "route_enabled": true
-    },
-     "Kumari": {
-      "connected_to": "Kumari",
-      "device_id": "13076742135",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Kumari%20chariot.svg",
-      "active": true,
-      "route_enabled": true
     }
-  },
-  {
+},
+{
     "day_number": 3,
     "day": "Saturday",
-    "date_nepali": "21th Bhadra 2082",
-    "date_english": "2025_09_06",
-    "events": "Indra Jatra",
-     "Pulukisi": {
-      "connected_to": "Pulukisi",
-      "device_id": "13298045197",
+    "date_nepali": "14 chaitra 2082",
+    "date_english": "2026_03_28",
+    "events": "Seto Machindranath Rath Yatra"
+    "gps1": {
+      "connected_to": "gps1",
+      "device_id": "13298044511",
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Pulukisi_Icon.svg",
       "active": true,
       "route_enabled": true
     },
-    "Majipa Lakhe": {
-      "connected_to": "Majipa Lakhe",
-      "device_id": "13298044511",
+    "gps2": {
+      "connected_to": "gps2",
+      "device_id": "13076742135",
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Lakhey_Icon.svg",
       "active": true,
       "route_enabled": true
-    },
-     "Sawa Bhaku": {
-      "connected_to": "Sawa Bhaku",
-      "device_id": "13298044840",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/SawaBakhu_Icon.svg",
-      "active": true,
-      "route_enabled": true
-    },
-     "Bhairab": {
-      "connected_to": "Bhairab",
-      "device_id": "13298019869",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Bhairab%20Chariot.svg",
-      "active": true,
-      "route_enabled": true
-    },
-     "Ganesh": {
-      "connected_to": "Ganesh",
-      "device_id": "13298045410",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Ganesh%20Chariot.svg",
-      "active": true,
-      "route_enabled": true
-    },
-     "Kumari": {
-      "connected_to": "Kumari",
-      "device_id": "13076742135",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Kumari%20chariot.svg",
-      "active": true,
-      "route_enabled": true
     }
-  },
-  {
+},
+{
     "day_number": 4,
     "day": "Sunday",
-    "date_nepali": "22th Bhadra 2082",
-    "date_english": "2025_09_07",
-    "events": "Sec Day Chariot festival",
-    "Pulukisi": {
-      "connected_to": "Pulukisi",
-      "device_id": "13298045197",
+    "date_nepali": "15 chaitra 2082",
+    "date_english": "2026_03_29",
+    "events": "Seto Machindranath Rath Yatra"
+    "gps1": {
+      "connected_to": "gps1",
+      "device_id": "13298044511",
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Pulukisi_Icon.svg",
       "active": true,
       "route_enabled": true
     },
-    "Majipa Lakhe": {
-      "connected_to": "Majipa Lakhe",
-      "device_id": "13298044511",
+    "gps2": {
+      "connected_to": "gps2",
+      "device_id": "13076742135",
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Lakhey_Icon.svg",
       "active": true,
       "route_enabled": true
-    },
-     "Sawa Bhaku": {
-      "connected_to": "Sawa Bhaku",
-      "device_id": "13298044840",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/SawaBakhu_Icon.svg",
-      "active": true,
-      "route_enabled": true
-    },
-     "Bhairab": {
-      "connected_to": "Bhairab",
-      "device_id": "13298019869",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Bhairab%20Chariot.svg",
-      "active": true,
-      "route_enabled": true
-    },
-     "Ganesh": {
-      "connected_to": "Ganesh",
-      "device_id": "13298045410",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Ganesh%20Chariot.svg",
-      "active": true,
-      "route_enabled": true
-    },
-     "Kumari": {
-      "connected_to": "Kumari",
-      "device_id": "13076742135",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Kumari%20chariot.svg",
-      "active": true,
-      "route_enabled": true
     }
-  },
-  {
+},
+{
     "day_number": 5,
     "day": "Monday",
-    "date_nepali": "23th Bhadra 2082",
-    "date_english": "2025_09_08",
-    "events": "",
-    "Pulukisi": {
-      "connected_to": "Pulukisi",
-      "device_id": "13298045197",
+    "date_nepali": "16 chaitra 2082",
+    "date_english": "2026_03_30",
+    "events": "Seto Machindranath Rath Yatra"
+    "gps1": {
+      "connected_to": "gps1",
+      "device_id": "13298044511",
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Pulukisi_Icon.svg",
       "active": true,
       "route_enabled": true
     },
-    "Majipa Lakhe": {
-      "connected_to": "Majipa Lakhe",
-      "device_id": "13298044511",
+    "gps2": {
+      "connected_to": "gps2",
+      "device_id": "13076742135",
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Lakhey_Icon.svg",
       "active": true,
       "route_enabled": true
-    },
-     "Sawa Bhaku": {
-      "connected_to": "Sawa Bhaku",
-      "device_id": "13298044840",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/SawaBakhu_Icon.svg",
-      "active": true,
-      "route_enabled": true
-    },
-     "Bhairab": {
-      "connected_to": "Bhairab",
-      "device_id": "13298019869",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Bhairab%20Chariot.svg",
-      "active": true,
-      "route_enabled": true
-    },
-     "Ganesh": {
-      "connected_to": "Ganesh",
-      "device_id": "13298045410",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Ganesh%20Chariot.svg",
-      "active": true,
-      "route_enabled": true
-    },
-     "Kumari": {
-      "connected_to": "Kumari",
-      "device_id": "13076742135",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Kumari%20chariot.svg",
-      "active": true,
-      "route_enabled": true
     }
-  },
-  {
-    "day_number": 6,
-    "day": "Tuesday",
-    "date_nepali": "24th Bhadra 2082",
-    "date_english": "2025_09_09",
-    "events": "",
-     "Pulukisi": {
-      "connected_to": "Pulukisi",
-      "device_id": "13298045197",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Pulukisi_Icon.svg",
-      "active": true,
-      "route_enabled": true
-    },
-    "Majipa Lakhe": {
-      "connected_to": "Majipa Lakhe",
-      "device_id": "13298044511",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Lakhey_Icon.svg",
-      "active": true,
-      "route_enabled": true
-    },
-     "Sawa Bhaku": {
-      "connected_to": "Sawa Bhaku",
-      "device_id": "13298044840",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/SawaBakhu_Icon.svg",
-      "active": true,
-      "route_enabled": true
-    },
-     "Bhairab": {
-      "connected_to": "Bhairab",
-      "device_id": "13298019869",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Bhairab%20Chariot.svg",
-      "active": true,
-      "route_enabled": true
-    },
-     "Ganesh": {
-      "connected_to": "Ganesh",
-      "device_id": "13298045410",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Ganesh%20Chariot.svg",
-      "active": true,
-      "route_enabled": true
-    },
-     "Kumari": {
-      "connected_to": "Kumari",
-      "device_id": "13076742135",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Kumari%20chariot.svg",
-      "active": true,
-      "route_enabled": true
-    }
-  },
-  {
-    "day_number": 7,
-    "day": "Wednesday",
-    "date_nepali": "25th Bhadra 2082",
-    "date_english": "2025_09_10",
-    "events": "",
-     "Pulukisi": {
-      "connected_to": "Pulukisi",
-      "device_id": "13298045197",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Pulukisi_Icon.svg",
-      "active": true,
-      "route_enabled": true
-    },
-    "Majipa Lakhe": {
-      "connected_to": "Majipa Lakhe",
-      "device_id": "13298044511",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Lakhey_Icon.svg",
-      "active": true,
-      "route_enabled": true
-    },
-     "Sawa Bhaku": {
-      "connected_to": "Sawa Bhaku",
-      "device_id": "13298044840",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/SawaBakhu_Icon.svg",
-      "active": true,
-      "route_enabled": true
-    },
-     "Bhairab": {
-      "connected_to": "Bhairab",
-      "device_id": "13298019869",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Bhairab%20Chariot.svg",
-      "active": true,
-      "route_enabled": true
-    },
-     "Ganesh": {
-      "connected_to": "Ganesh",
-      "device_id": "13298045410",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Ganesh%20Chariot.svg",
-      "active": true,
-      "route_enabled": true
-    },
-     "Kumari": {
-      "connected_to": "Kumari",
-      "device_id": "13076742135",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Kumari%20chariot.svg",
-      "active": true,
-      "route_enabled": true
-    }
-  },
-  {
-    "day_number": 8,
-    "day": "Thursday",
-    "date_nepali": "26th Bhadra 2082",
-    "date_english": "2025_09_11",
-    "events": "Last day Indra Jatra",
-     "Pulukisi": {
-      "connected_to": "Pulukisi",
-      "device_id": "13298045197",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Pulukisi_Icon.svg",
-      "active": true,
-      "route_enabled": true
-    },
-    "Majipa Lakhe": {
-      "connected_to": "Majipa Lakhe",
-      "device_id": "13298044511",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Lakhey_Icon.svg",
-      "active": true,
-      "route_enabled": true
-    },
-     "Sawa Bhaku": {
-      "connected_to": "Sawa Bhaku",
-      "device_id": "13298044840",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/SawaBakhu_Icon.svg",
-      "active": true,
-      "route_enabled": true
-    },
-     "Bhairab": {
-      "connected_to": "Bhairab",
-      "device_id": "13298019869",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Bhairab%20Chariot.svg",
-      "active": true,
-      "route_enabled": true
-    },
-     "Ganesh": {
-      "connected_to": "Ganesh",
-      "device_id": "13298045410",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Ganesh%20Chariot.svg",
-      "active": true,
-      "route_enabled": true
-    },
-     "Kumari": {
-      "connected_to": "Kumari",
-      "device_id": "13076742135",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Kumari%20chariot.svg",
-      "active": true,
-      "route_enabled": true
-    }
-  }
-]
+},
+
+  ]
