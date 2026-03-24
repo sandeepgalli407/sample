@@ -25,7 +25,7 @@
     "day": "Friday",
     "date_nepali": "13 chaitra 2082",
     "date_english": "2026_03_27",
-    "events": "Seto Machindranath Rath Yatra"
+    "events": "Seto Machindranath Rath Yatra",
     "gps1": {
       "connected_to": "gps1",
       "device_id": "13298044511",
@@ -46,7 +46,7 @@
     "day": "Saturday",
     "date_nepali": "14 chaitra 2082",
     "date_english": "2026_03_28",
-    "events": "Seto Machindranath Rath Yatra"
+    "events": "Seto Machindranath Rath Yatra",
     "gps1": {
       "connected_to": "gps1",
       "device_id": "13298044511",
@@ -67,7 +67,7 @@
     "day": "Sunday",
     "date_nepali": "15 chaitra 2082",
     "date_english": "2026_03_29",
-    "events": "Seto Machindranath Rath Yatra"
+    "events": "Seto Machindranath Rath Yatra",
     "gps1": {
       "connected_to": "gps1",
       "device_id": "13298044511",
@@ -84,11 +84,11 @@
     }
 },
 {
-    "day_number": 5,
+    "day_number":5,
     "day": "Monday",
     "date_nepali": "16 chaitra 2082",
     "date_english": "2026_03_30",
-    "events": "Seto Machindranath Rath Yatra"
+    "events": "Seto Machindranath Rath Yatra",
     "gps1": {
       "connected_to": "gps1",
       "device_id": "13298044511",
@@ -99,10 +99,9 @@
     "gps2": {
       "connected_to": "gps2",
       "device_id": "13076742135",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rath.png,
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rath.png",
       "active": true,
       "route_enabled": true
     }
-},
-
+}
   ]
