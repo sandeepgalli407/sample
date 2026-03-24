@@ -6,14 +6,14 @@
     "date_english": "2026_03_26",
     "events": "Seto Machindranath Rath Yatra",
     "gps1": {
-      "connected_to": "gps1",
+      "connected_to": "Seto Machindranath",
       "device_id": "13298044511",
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rath.png",
       "active": true,
       "route_enabled": true
     },
     "gps2": {
-      "connected_to": "gps2",
+      "connected_to": "Seto Machindranath",
       "device_id": "13076742135",
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rath.png",
       "active": true,
@@ -27,14 +27,14 @@
     "date_english": "2026_03_27",
     "events": "Seto Machindranath Rath Yatra",
     "gps1": {
-      "connected_to": "gps1",
+      "connected_to": "Seto Machindranath",
       "device_id": "13298044511",
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rath.png",
       "active": true,
       "route_enabled": true
     },
     "gps2": {
-      "connected_to": "gps2",
+      "connected_to": "Seto Machindranath",
       "device_id": "13076742135",
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rath.png",
       "active": true,
@@ -48,14 +48,14 @@
     "date_english": "2026_03_28",
     "events": "Seto Machindranath Rath Yatra",
     "gps1": {
-      "connected_to": "gps1",
+      "connected_to": "Seto Machindranath",
       "device_id": "13298044511",
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rath.png",
       "active": true,
       "route_enabled": true
     },
     "gps2": {
-      "connected_to": "gps2",
+      "connected_to": "Seto Machindranath",
       "device_id": "13076742135",
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rath.png",
       "active": true,
@@ -69,14 +69,14 @@
     "date_english": "2026_03_29",
     "events": "Seto Machindranath Rath Yatra",
     "gps1": {
-      "connected_to": "gps1",
+      "connected_to": "Seto Machindranath",
       "device_id": "13298044511",
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rath.png",
       "active": true,
       "route_enabled": true
     },
     "gps2": {
-      "connected_to": "gps2",
+      "connected_to": "Seto Machindranath",
       "device_id": "13076742135",
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rath.png",
       "active": true,
@@ -90,14 +90,14 @@
     "date_english": "2026_03_30",
     "events": "Seto Machindranath Rath Yatra",
     "gps1": {
-      "connected_to": "gps1",
+      "connected_to": "Seto Machindranath",
       "device_id": "13298044511",
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rath.png",
       "active": true,
       "route_enabled": true
     },
     "gps2": {
-      "connected_to": "gps2",
+      "connected_to": "Seto Machindranath",
       "device_id": "13076742135",
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rath.png",
       "active": true,
