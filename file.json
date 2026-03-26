@@ -6,16 +6,16 @@
     "date_english": "2026_03_26",
     "events": "Seto Machindranath Rath Yatra",
     "gps1": {
-      "connected_to": "Seto Machindranath Khath",
+      "connected_to": "Seto Machindranath",
       "device_id": "13298044511",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Khat-Icon.png",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rath1.png",
       "active": true,
       "route_enabled": true
     },
     "gps2": {
-      "connected_to": "Seto Machindranath",
+      "connected_to": "Seto Machindranath khath",
       "device_id": "13076742135",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rath1.png",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Khat-Icon.png",
       "active": true,
       "route_enabled": true
     }
@@ -27,16 +27,16 @@
     "date_english": "2026_03_27",
     "events": "Seto Machindranath Rath Yatra",
     "gps1": {
-      "connected_to": "Seto Machindranath Khath",
+      "connected_to": "Seto Machindranath",
       "device_id": "13298044511",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Khat-Icon.png",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rath1.png",
       "active": true,
       "route_enabled": true
     },
     "gps2": {
-      "connected_to": "Seto Machindranath",
+      "connected_to": "Seto Machindranath khath",
       "device_id": "13076742135",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rath1.png",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Khat-Icon.png",
       "active": true,
       "route_enabled": true
     }
@@ -48,16 +48,16 @@
     "date_english": "2026_03_28",
     "events": "Seto Machindranath Rath Yatra",
     "gps1": {
-      "connected_to": "Seto Machindranath Khath",
+      "connected_to": "Seto Machindranath",
       "device_id": "13298044511",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Khat-Icon.png",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rath1.png",
       "active": true,
       "route_enabled": true
     },
     "gps2": {
-      "connected_to": "Seto Machindranath",
+      "connected_to": "Seto Machindranath khath",
       "device_id": "13076742135",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rath1.png",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Khat-Icon.png",
       "active": true,
       "route_enabled": true
     }
@@ -69,16 +69,16 @@
     "date_english": "2026_03_29",
     "events": "Seto Machindranath Rath Yatra",
     "gps1": {
-      "connected_to": "Seto Machindranath Khath",
+      "connected_to": "Seto Machindranath",
       "device_id": "13298044511",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Khat-Icon.png",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rath1.png",
       "active": true,
       "route_enabled": true
     },
     "gps2": {
-      "connected_to": "Seto Machindranath",
+      "connected_to": "Seto Machindranath khath",
       "device_id": "13076742135",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rath1.png",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Khat-Icon.png",
       "active": true,
       "route_enabled": true
     }
@@ -90,16 +90,16 @@
     "date_english": "2026_03_30",
     "events": "Seto Machindranath Rath Yatra",
     "gps1": {
-      "connected_to": "Seto Machindranath Khath",
+      "connected_to": "Seto Machindranath",
       "device_id": "13298044511",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Khat-Icon.png",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rath1.png",
       "active": true,
       "route_enabled": true
     },
     "gps2": {
-      "connected_to": "Seto Machindranath",
+      "connected_to": "Seto Machindranath khath",
       "device_id": "13076742135",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rath1.png",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Khat-Icon.png",
       "active": true,
       "route_enabled": true
     }
