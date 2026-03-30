@@ -13,7 +13,7 @@
       "route_enabled": true
     },
     "gps2": {
-      "connected_to": "Seto Machindranath",
+      "connected_to": "Seto Machindranath khath",
       "device_id": "13076742135",
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rath1.png",
       "active": true,
@@ -34,7 +34,7 @@
       "route_enabled": true
     },
     "gps2": {
-      "connected_to": "Seto Machindranath",
+      "connected_to": "Seto Machindranath khath",
       "device_id": "13076742135",
       "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rath1.png",
       "active": true,
@@ -55,9 +55,9 @@
       "route_enabled": true
     },
     "gps2": {
-      "connected_to": "Seto Machindranath",
+      "connected_to": "Seto Machindranath khath",
       "device_id": "13076742135",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rath1.png",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Khat-Icon.png",
       "active": true,
       "route_enabled": true
     }
@@ -76,9 +76,9 @@
       "route_enabled": true
     },
     "gps2": {
-      "connected_to": "Seto Machindranath",
+      "connected_to": "Seto Machindranath khath",
       "device_id": "13076742135",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rath1.png",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Khat-Icon.png",
       "active": true,
       "route_enabled": true
     }
@@ -97,9 +97,9 @@
       "route_enabled": true
     },
     "gps2": {
-      "connected_to": "Seto Machindranath",
+      "connected_to": "Seto Machindranath khath",
       "device_id": "13076742135",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rath1.png",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Khat-Icon.png",
       "active": true,
       "route_enabled": true
     }
