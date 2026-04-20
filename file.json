@@ -2,106 +2,21 @@
   {
     "day_number": 1,
     "day": "Thursday",
-    "date_nepali": "12 chaitra 2082",
-    "date_english": "2026_03_26",
-    "events": "Seto Machindranath Rath Yatra",
+    "date_nepali": "7 Bhaisakh 2083",
+    "date_english": "2026_04_21",
+    "events": "Rato Machhindranath",
     "gps1": {
-      "connected_to": "Seto Machindranath khath",
+      "connected_to": "Rato Machhindranath",
       "device_id": "13298044511",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Khat-Icon.png",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rato_machindranath_1.png",
       "active": true,
       "route_enabled": true
     },
     "gps2": {
-      "connected_to": "Seto Machindranath khath",
+      "connected_to": "Minnath",
       "device_id": "13076742135",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Khat-Icon.png",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rath_icon_2.png",
       "active": true,
       "route_enabled": true
     }
-},
-{
-    "day_number": 2,
-    "day": "Friday",
-    "date_nepali": "13 chaitra 2082",
-    "date_english": "2026_03_27",
-    "events": "Seto Machindranath Rath Yatra",
-    "gps1": {
-      "connected_to": "Seto Machindranath khath",
-      "device_id": "13298044511",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Khat-Icon.png",
-      "active": true,
-      "route_enabled": true
-    },
-    "gps2": {
-      "connected_to": "Seto Machindranath khath",
-      "device_id": "13076742135",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Khat-Icon.png",
-      "active": true,
-      "route_enabled": true
-    }
-},
-{
-    "day_number": 3,
-    "day": "Saturday",
-    "date_nepali": "14 chaitra 2082",
-    "date_english": "2026_03_28",
-    "events": "Seto Machindranath Rath Yatra",
-    "gps1": {
-      "connected_to": "Seto Machindranath khath",
-      "device_id": "13298044511",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Khat-Icon.png",
-      "active": true,
-      "route_enabled": true
-    },
-    "gps2": {
-      "connected_to": "Seto Machindranath khath",
-      "device_id": "13076742135",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Khat-Icon.png",
-      "active": true,
-      "route_enabled": true
-    }
-},
-{
-    "day_number": 4,
-    "day": "Sunday",
-    "date_nepali": "15 chaitra 2082",
-    "date_english": "2026_03_29",
-    "events": "Seto Machindranath Rath Yatra",
-    "gps1": {
-      "connected_to": "Seto Machindranath khath",
-      "device_id": "13298044511",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Khat-Icon.png",
-      "active": true,
-      "route_enabled": true
-    },
-    "gps2": {
-      "connected_to": "Seto Machindranath khath",
-      "device_id": "13076742135",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Khat-Icon.png",
-      "active": true,
-      "route_enabled": true
-    }
-},
-{
-    "day_number":5,
-    "day": "Monday",
-    "date_nepali": "16 chaitra 2082",
-    "date_english": "2026_03_30",
-    "events": "Seto Machindranath Rath Yatra",
-    "gps1": {
-      "connected_to": "Seto Machindranath khath",
-      "device_id": "13298044511",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Khat-Icon.png",
-      "active": true,
-      "route_enabled": true
-    },
-    "gps2": {
-      "connected_to": "Seto Machindranath khath",
-      "device_id": "13076742135",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/Khat-Icon.png",
-      "active": true,
-      "route_enabled": true
-    }
-}
-  ]
+}  ]
