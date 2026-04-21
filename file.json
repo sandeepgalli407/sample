@@ -13,9 +13,9 @@
       "route_enabled": true
     },
     "gps2": {
-      "connected_to": "Minnath",
+      "connected_to": "Rato Machhindranath",
       "device_id": "13076742135",
-      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rato_machindranath_2.png",
+      "img": "https://raw.githubusercontent.com/sandeepgalli407/sample/refs/heads/master/rato_machindranath_1.png",
       "active": true,
       "route_enabled": true
     }
